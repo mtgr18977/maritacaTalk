@@ -3,7 +3,7 @@ import streamlit as st
 
 # Configurando a API da Maritaca
 client = openai.OpenAI(
-    api_key="108975062970243465496_28ca7f06ad1187a2",
+    api_key="SUA_CHAVE_API",
     base_url="https://chat.maritaca.ai/api",
 )
 
